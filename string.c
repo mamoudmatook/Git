@@ -1,6 +1,9 @@
-nclude <stdio.h>
+include <stdio.h>
 
-float  my_strlen(char *s)
+<<<<<<< HEAD
+=======
+size_t  my_strlen(char *s)
+>>>>>>> a5195c5014b6093b111b46875b285f990c4a831c
 {
 	   char *p = s;
 
