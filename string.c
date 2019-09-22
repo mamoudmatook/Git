@@ -1,6 +1,6 @@
 nclude <stdio.h>
 
-int my_strlen(char *s)
+float  my_strlen(char *s)
 {
 	   char *p = s;
 
